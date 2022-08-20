@@ -1,3 +1,5 @@
+### Phaser + Typescript + Parcel (boilerplate)
+
 Forked from https://github.com/ourcade/phaser3-parcel-template and made it work with type script out of the box (though it requires parcel to be available in your environment).
 
 ---
